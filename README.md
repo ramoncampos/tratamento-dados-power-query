@@ -1,4 +1,4 @@
-# tratamentos de dados no Power Query
+# Tratamentos de dados no Power Query
 Aqui apresento alguns tratamentos no Power Query para situações comuns no tratamento e preparação de dados.
 
 ### <a href="https://github.com/ramoncampos/tratamento-dados-power-query/blob/main/dHorarios">Tabela dHorarios</a>
